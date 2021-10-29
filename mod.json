@@ -1,8 +1,9 @@
 {
-    "name": "slowK,
+    "name": "slowK",
     "displayName": "Slow Kindling",
     "author": "Sh1penfire",
-    "description": "Lil testig mod for ideas that Sh1p has.",
+    "description": "A texture pack and effect replacing mod that I'm making for fun.",
     "version": "skidiabapop",
-    "minGameVersion": "121"
+    "minGameVersion": "121",
+    "hidden": "true"
 }
